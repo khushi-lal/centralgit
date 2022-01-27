@@ -1,8 +1,3 @@
-Pipeline { 
-}
-
-1st add agent  then stages 
-
 pipeline {
     agent any 
     stages {
